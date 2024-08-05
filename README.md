@@ -6,4 +6,4 @@ Contains the following files:
     <li><b>insert_employees.py</b> - running this script will insert all the employees from the passed CSV file on the device</li>
     <li><b>UID_Generator.py</b> - this script is for generating the unique identifiers of each employee (UID). The script is used in <b>insert_employees.py</b> - on insertion we add a custom generated unique number to each employee.</li>
 </ul><br>
-<i>More scripts and updated coming soon..
+<i>More scripts and updates coming soon..
